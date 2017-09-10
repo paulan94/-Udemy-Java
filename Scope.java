@@ -1,6 +1,6 @@
 class Scope{
 
-	public static String txt = "ClassString";
+	public static final String txt = "ClassString";
 
 	public static void main(String[] args){
 		String txt = "mainString";
