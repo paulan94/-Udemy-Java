@@ -1,11 +1,11 @@
-class Two extends Three {
+class Two extends One {
 
 	public static void main(String[] args){
 
 		System.out.println("This is from Two.java class");
 
 		txt();
-		One.msg();
+		Three.msg();
 
 	}
 }
